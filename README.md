@@ -2,4 +2,4 @@
 First test repository
 # My own text
 
-Ik zit vandaag in Assen
+Ik zit vandaag NIET in Assen
